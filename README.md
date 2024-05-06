@@ -1,27 +1,15 @@
-# ClothesEcommerce
+# Ecommerce de roupas – Loja Cereja do Bolo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+Projeto final do módulo de Angular I do curso Santander Coders + Ada tech 2023.2, lecionada pelo professor Luiz Fernando Bicalho.
 
-## Development server
+## Proposta do projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+A proposto do projeto é a criação de uma página web de um Ecommerce de roupas, onde eu optei por fazer de roupas para o público plus e Midsize. 
+Nesta página foi proposto criar um catálogo de roupas, um carrinho onde poderiam ser inseridos as roupas escolhidas compra e a inserção dessas roupas no carrinho. 
 
-## Code scaffolding
+## Aprendizados e Linguagens utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Nesse módulo foi possível aprender e executamos os conceitos iniciais de Angular. 
+Também aprendemos um pouco TypeScript e utilizamos o JavaScript. Além disso, foi apresentado e usado a biblioteca de componentes Angular Material. 
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
